@@ -3,6 +3,10 @@ package com.thoughtworks.capability.gtb.entrancequiz;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//TODO GTB-综合: * 实现代码太少，暂时无法给出更多评价
+
+//TODO GTB-测试: * 没有测试
+
 @SpringBootApplication
 public class GtbEntranceQuizApplication {
 
